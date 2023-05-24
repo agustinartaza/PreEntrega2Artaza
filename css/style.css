@@ -1,0 +1,26 @@
+@font-face {
+    font-family:"JackInput" ;
+    src: url(../assets/fonts/JAi_____.TTF);
+  }
+  .fuenteNueva{
+    font-family: "JackInput", cursive;
+    font-size: 20px;
+  }
+
+  .banner{
+    background-image: url(https://i.redd.it/qkiu86oypn571.png);
+    background-size: cover;
+    background-repeat: repeat;
+  }
+  .reproductor1, .reproductor2 {
+    display: inline-block;
+    margin-bottom: 80px;
+    margin-top: 59px;
+    margin-left: 185px
+
+}
+.banner2{
+    background-image: url(https://images.complex.com/complex/images/c_fill,dpr_auto,f_auto,q_90,w_1400/fl_lossy,pg_1/n5exwjcsysn1pzh5nkse/tyler-the-creator-call-me-if-you-get-lost-album-cover-interview);
+    background-size: cover;
+    background-repeat: repeat;
+  }
