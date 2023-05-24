@@ -6,7 +6,8 @@
     font-family: "JackInput", cursive;
     font-size: 20px;
   }
-
+  
+  /*INDEX*/
   .banner{
     background-image: url(https://i.redd.it/qkiu86oypn571.png);
     background-size: cover;
@@ -53,4 +54,7 @@
   }
   }
 
-  
+  /*DISCOGRAFIA*/
+  .img1{
+    background-image: url(https://images.complex.com/complex/images/c_fill,dpr_auto,f_auto,q_auto,w_1400/fl_lossy,pg_1/bebllwzjpsujz9ffwp6s/tyler-the-creator-scum-fuck-flower-boy-cover?fimg-ssr-default);
+  }
