@@ -55,6 +55,56 @@
   }
 
   /*DISCOGRAFIA*/
-  .img1{
-    background-image: url(https://images.complex.com/complex/images/c_fill,dpr_auto,f_auto,q_auto,w_1400/fl_lossy,pg_1/bebllwzjpsujz9ffwp6s/tyler-the-creator-scum-fuck-flower-boy-cover?fimg-ssr-default);
+  #Disc{
+    background-color: #68c9d2;
   }
+  /*BIOGRAFIA*/
+  #Bio{
+    background-image: url(https://i.redd.it/qkiu86oypn571.png);
+    background-size: cover;
+    background-repeat: repeat;
+  }
+  
+  .txtbio1{
+    width: 1000px;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+  .txtbio2{
+    margin-right: 20px;
+  }
+  .img1{
+    margin-top: -1879px;
+    margin-left: 1190px;
+  }
+  .img2{
+    margin-top: -900px;
+    margin-left: 1190px;
+  }
+  /*NOVEDADES*/
+  #Nov{
+    background-color: #f8c1bf;
+    background-size: cover;
+    background-repeat: repeat;
+  }
+  .form1{
+    color: black; 
+    text-align: center;
+     font-size: 25px;
+    padding-top: 8%;
+    padding-bottom: 23%;
+    
+   }
+   /*CONTACTO*/
+   #Contac{
+    background-color: #f9efce;
+   }
+
+   .form2{
+    color: black; 
+    text-align: center;
+     font-size: 25px;
+    padding-top: 8%;
+    padding-bottom: 23%;
+    
+   }
